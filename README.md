@@ -1,2 +1,2 @@
 # Flappy-Bird-Unity
-Flappy bird game in Unity
+Flappy bird game made in Unity
